@@ -5,8 +5,9 @@ Let's start with some basic term:
 2. clone
 3.push or pull
 4. pull requests
-5. master, branch, ...
-6. commit (like save)
+5. master, branches, ...
+# the moments of each commit has uuid. If I'm not sure that I want to edit my master branch.
+6. commit (like save but having his own unique identifier - hash)
 7. the line for some concept I don't remember.
 8. another line for a consept I can't remember. 
 These are the concepts that is good to know. 
