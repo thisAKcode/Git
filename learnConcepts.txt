@@ -1,4 +1,4 @@
-Hi!
+Hi! # i comment out title. THis title could be replaced by the better name: 'Crucial consepts of Git'
 
 Let's start with some basic term:
 1. repository
