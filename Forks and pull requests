@@ -6,3 +6,8 @@ Fork a repository / taking an entire other instance of the repo and putting exac
 
 If I decide to do stuff I can make branches and stuff, without affection the original core version. 
 it is upp to owner of original repo to take decision on pull changes. That is why it is pull request.
+
+
+
+In forked version I commit some changes. I can commit directly to master in forked repo OR I can create branch instead.
+
