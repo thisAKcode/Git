@@ -1,0 +1,10 @@
+Hi!
+
+Let's start with some basic term:
+1. repository
+2. clone
+3.push or pull
+4. pull requests
+5. master, branch, ...
+6. commit (like save)
+These are the concepts that is good to know. 
