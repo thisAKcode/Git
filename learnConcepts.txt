@@ -1,4 +1,5 @@
-Hi! LearnConcept now will get some comments. 
+'Crucial consepts of Git'
+
 
 Let's start with some basic term:
 1. repository
