@@ -7,4 +7,5 @@ Let's start with some basic term:
 4. pull requests
 5. master, branch, ...
 6. commit (like save)
+7. the line for some concept I don't remember.
 These are the concepts that is good to know. 
