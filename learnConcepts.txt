@@ -1,10 +1,11 @@
-Hi!
+Hi! LearnConcept now will get some comments. 
 
 Let's start with some basic term:
 1. repository
 2. clone
 3.push or pull
 4. pull requests
+# comments here and there
 5. master, branches, ...
 # the moments of each commit has uuid. If I'm not sure that I want to edit my master branch.
 6. commit (like save but having his own unique identifier - hash)
