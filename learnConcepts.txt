@@ -1,6 +1,6 @@
 'Crucial consepts of Git'
 
-
+ADD SOMETHING TO REMOVE LATER.
 Let's start with some basic term:
 1. repository
 2. clone
