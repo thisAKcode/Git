@@ -4,7 +4,8 @@ Let's start with some basic term:
 1. repository
 2. clone
 3.push or pull
-4. pull requests
+4. pull request. Merge. Open a pull request. 
+# Saying will you please take those changes from created branch and merge them into master.
 # comments here and there
 5. master, branches, ...
 # the moments of each commit has uuid. If I'm not sure that I want to edit my master branch.
