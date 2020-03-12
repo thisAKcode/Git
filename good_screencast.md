@@ -14,3 +14,6 @@ $ git init myproject
 
 after video go to http://git-scm.com/documentation
 STILL CHALLENGING : COLLABORATIVE GIT/ DISTRIBUTED GIT
+
+
+https://www.youtube.com/watch?v=oK8EvVeVltE
