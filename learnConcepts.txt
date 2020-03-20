@@ -15,3 +15,13 @@ Let's start with some basic term:
 8. another line for a consept I can't remember. 
 These are the concepts that is good to know. 
 9. MASTER IS ALSO GETTING SOME CHANGES.
+
+
+
+10 update git clone
+if fetch + merge : git pull
+else git fetch
+
+git commit is explained if you execute the following command on git bash:
+    $ git
+    
