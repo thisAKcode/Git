@@ -25,3 +25,14 @@ else git fetch
 git commit is explained if you execute the following command on git bash:
     $ git
     
+    
+    
+if you cloned and changed cloned repo locally the you neeed changes be reflected 
+in git it means you need to push to remote 
+remote is github repo
+git remote -v   
+
+often for my simple beginner programs it is enough to do 
+git push origin master
+
+    
