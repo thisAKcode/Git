@@ -33,6 +33,7 @@ remote is github repo
 git remote -v   
 
 often for my simple beginner programs it is enough to do 
-git push origin master
 
-    
+git add .
+git commit -m 'describe shortly'    
+git push origin master
