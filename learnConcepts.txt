@@ -42,5 +42,6 @@ git push origin master
 
 # How to create a pull request of the edited master branch in order to reflect changes in forked branch.
 
-I used create pull request and switched branched I wanted to get changes in. 
+I used create pull request and switched branched I wanted to get changes in On b.anch alex_k_work.
+
 
