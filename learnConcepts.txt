@@ -1,13 +1,13 @@
 'Crucial consepts of Git'
 
 ADD SOMETHING TO REMOVE LATER.
-Let's start with some basic term:
+some basic terms:
 1. repository
 2. clone
 3.push or pull
 4. pull request. Merge. Open a pull request. 
 # Saying will you please take those changes from created branch and merge them into master.
-# comments here and there
+# comments 
 5. master, branches, ...
 # the moments of each commit has uuid. If I'm not sure that I want to edit my master branch.
 6. commit (like save but having his own unique identifier - hash)
@@ -55,3 +55,8 @@ I used create pull request and switched branched I wanted to get changes in On b
     git push -u origin feature_branch_name
 ## Skaffa en ny bransch
 `git checkout -b content`
+
+
+## subfolder into a new repo
+
+https://help.github.com/en/github/using-git/splitting-a-subfolder-out-into-a-new-repository
