@@ -19,27 +19,29 @@ These are the concepts that is good to know.
 
 
 10 update git clone
-if fetch + merge : git pull
-else git fetch
+if fetch + merge : 
+`git pull`
+else 
+`git fetch`
 
 git commit is explained if you execute the following command on git bash:
-    $ git
+`git`
 
 # get changes from remote into your local catalog:
-git fetch repourl
-git merge origin/master
+`git fetch repourl`
+`git merge origin/master`
     
 if you cloned and changed cloned repo locally the you neeed changes be reflected 
 in git it means you need to push to remote 
 remote is github repo
-git remote -v   
+`git remote -v`
 
 often for my simple beginner programs it is enough to do 
 
-git add .
+`git add .
 git commit -m 'describe shortly'    
 git push origin master
-
+`
 
 
 # How to create a pull request of the edited master branch in order to reflect changes in forked branch.
