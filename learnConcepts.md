@@ -53,7 +53,8 @@ I used create pull request and switched branched I wanted to get changes in On b
     Edit, add and commit your files.
     Push your branch to the remote repository:
     git push -u origin feature_branch_name
-## Skaffa en ny bransch
+## why not to checkout a new branch?
+
 `git checkout -b content`
 
 
