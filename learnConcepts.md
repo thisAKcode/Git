@@ -60,7 +60,7 @@ I used create pull request and switched branched I wanted to get changes in On b
 `git checkout -b content`
 
 
-## subfolder into a new repo
+## turn subfolder into a new repo
 
 https://help.github.com/en/github/using-git/splitting-a-subfolder-out-into-a-new-repository
 
