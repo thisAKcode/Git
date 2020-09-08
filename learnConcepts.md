@@ -66,3 +66,42 @@ https://help.github.com/en/github/using-git/splitting-a-subfolder-out-into-a-new
 
 
 <https://github.com/mattharrison/Git-Supervisual-Cheatsheet>
+
+## Git tips by Bob Belderbos
+
+    1. When working with multiple branches you can stash changes away that you are not yet ready to commit:
+
+    git stash save "save message"
+
+    You can then retrieve them later with:
+
+    git stash list
+    git stash pop <stash_item_hash>
+
+    2. When you want to add more changes to the last (local) commit, use:
+
+    git add file(s)
+    git commit --amend
+
+    This opens your editor and lets you modify the last commit.
+
+    3. On the other hand, if you want to spread out your changes over multiple commits (granular commits are good!), use:
+
+    git add -p
+
+    Here you can commit only parts ("hunks") of your changes in interactive mode.
+
+    4. Imagine you get excited coding, and accidentally commit your changes to the main branch. No worries: if you forget to branch off earlier, you can still do so at this point:
+
+    git branch new_branch
+
+    Now you have your changes on both the original and new branch so you can wipe them out on the former:
+
+    git checkout original_branch
+    git reset HEAD~<number-of-commits-to-go-back>
+
+    (Make sure this is all local though, don't go modifying changes you already pushed!)
+
+    5. If you want to use a commit from one branch on another, you can cherry pick it:
+
+    git cherry-pick <commit_from_anywhere_in_your_repo>
