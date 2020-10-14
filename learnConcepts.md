@@ -1,7 +1,13 @@
 'Crucial consepts of Git'
+## OFTEN FOR A SIMPLE WORK IS ENOUGH TO DO:
 
-ADD SOMETHING TO REMOVE LATER.
-some basic terms:
+`git add .
+git commit -m 'describe shortly'    
+git push origin master`
+
+
+# some basic terms:
+0. gitignore - a way to avoid pushing some credentials or secret stuff when pushing chnages to remote. 
 1. repository
 2. clone
 3.push or pull
@@ -15,10 +21,7 @@ some basic terms:
 8. another line for a consept I can't remember. 
 These are the concepts that is good to know. 
 9. MASTER IS ALSO GETTING SOME CHANGES.
-
-
-
-10 update git clone
+10. update git clone
 if fetch + merge : 
 `git pull`
 else 
@@ -35,12 +38,6 @@ if you cloned and changed cloned repo locally the you neeed changes be reflected
 in git it means you need to push to remote 
 remote is github repo
 `git remote -v`
-
-often for my simple beginner programs it is enough to do 
-
-`git add .
-git commit -m 'describe shortly'    
-git push origin master
 
 
 ## How to create a pull request of the edited master branch in order to reflect changes in forked branch.
