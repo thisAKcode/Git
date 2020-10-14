@@ -2,7 +2,6 @@ Dealing with non-fast-forward errors
 ===============================================
 ERR1
 
-
 # once I tried to push to github
 
 $ git push origin content
@@ -18,3 +17,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
 SOLUTION
+
+# get changes from remote into your local catalog:
+`git fetch repourl`
+`git merge origin/content` # since I was working with content branch
