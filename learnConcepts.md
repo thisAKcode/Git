@@ -1,9 +1,9 @@
 'Crucial consepts of Git'
 ## OFTEN FOR A SIMPLE WORK IS ENOUGH TO DO:
 
-`git add .
+```git add .
 git commit -m 'describe shortly'    
-git push origin master`
+git push origin master``` 
 
 
 # some basic terms:
