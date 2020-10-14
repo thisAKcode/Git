@@ -41,14 +41,13 @@ often for my simple beginner programs it is enough to do
 `git add .
 git commit -m 'describe shortly'    
 git push origin master
-`
 
 
-# How to create a pull request of the edited master branch in order to reflect changes in forked branch.
+## How to create a pull request of the edited master branch in order to reflect changes in forked branch.
 
 I used create pull request and switched branched I wanted to get changes in On b.anch alex_k_work.
 
-# how to push changes made locally when some files in you remote are also edited
+## how to push changes made locally when some files in you remote are also edited
 
     Create a new branch:
     git checkout -b feature_branch_name
@@ -67,7 +66,7 @@ https://help.github.com/en/github/using-git/splitting-a-subfolder-out-into-a-new
 
 <https://github.com/mattharrison/Git-Supervisual-Cheatsheet>
 
-## Git tips by Bob Belderbos
+## Git tips
 
     1. When working with multiple branches you can stash changes away that you are not yet ready to commit:
 
