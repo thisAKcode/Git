@@ -1,1 +1,1 @@
-here I try to understand how to use gitignore. 
+here you just list all files that has not to follow to github once you do git push 
